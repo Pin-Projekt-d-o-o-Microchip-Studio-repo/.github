@@ -18,8 +18,7 @@ Development will switch over to PlatformIO when new code for AVR USART is writte
 
 ## Lotto machine:
 - All borads V1
-
-## Main controller board (USART compatibility)
+- Main controller board (USART compatibility)
 
 ## Testing:
 - motor testing
