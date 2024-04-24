@@ -6,6 +6,9 @@
 - code development was stopped around 27.2.2024.
 - the code is still functional, and could be used for refference
 
+***EDIT 24.4.2024: The code for lotto machine main controller board has been temporarily developed in Microchip Studio because it doesn't work with the newer compiler version in PlatformIO. 
+Development will switch over to PlatformIO when new code for AVR USART is written.***
+
 
 # Uploaded projects:
 
@@ -15,6 +18,8 @@
 
 ## Lotto machine:
 - All borads V1
+
+## Main controller board (USART compatibility)
 
 ## Testing:
 - motor testing
