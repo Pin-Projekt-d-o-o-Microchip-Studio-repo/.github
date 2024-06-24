@@ -12,16 +12,26 @@ Development will switch over to PlatformIO when new code for AVR USART is writte
 
 # Uploaded projects:
 
-## Bingo machine:
-- All boards V1
-- All boards V2
+### Production-lotto-machine-main-controller-USART-compatible:
+#### Main branch:
+- Prod main contr
 
-## Lotto machine:
-- All borads V1
-- Main controller board (USART compatibility)
+#### lower-ball-dropper-impro branch:
+- Prod main contr <-- folder that contains main controller code and lower ball dropper code
 
-## Testing:
+### Display lotto machine:
+- Disp main cont (USART comp)
+- Display lotto machine all boards V1
+
+### Display-lotto-machine-main-controller-USART-compatible:
+- Main controller
+
+### Testing:
 - motor testing
 - SPI
 - testing ATtiny13
 - UART
+
+### Bingo machine:
+- All boards V1
+- All boards V2
